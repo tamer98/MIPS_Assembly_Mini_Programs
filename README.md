@@ -1,1 +1,1 @@
-# Assembly_Mini_Programs
+# MIPS_Assembly_Mini_Programs
